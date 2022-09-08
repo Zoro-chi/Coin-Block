@@ -38,7 +38,7 @@ const App = () => {
             style={{ color: "var(--Black-H)", textAlign: "center" }}
           >
             Coin Block <br />
-            All rights reserved
+            Made with 🖤 from Gidi
           </Typography.Title>
           <Space>
             <Link to="/"> Home </Link>

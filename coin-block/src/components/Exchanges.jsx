@@ -1,11 +1,7 @@
 import React from "react";
 
 const Exchanges = () => {
-  return (
-    <div>
-      <h1> Exchanges </h1>
-    </div>
-  );
+  return <div className="exchange-sec">Coming Soon!</div>;
 };
 
 export default Exchanges;

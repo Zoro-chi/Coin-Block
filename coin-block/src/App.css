@@ -43,6 +43,7 @@ a:hover {
 }
 .routes {
   padding: 20px;
+  background-color: var(--Black-L);
 }
 .nav-container {
   position: fixed;
@@ -108,6 +109,15 @@ ul.ant-menu li span a:hover {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.ant-statistic-title {
+  color: #fff !important;
+}
+.ant-statistic-content-value {
+  color: var(--Yellow-H);
+}
+.home-title {
+  color: var(--Yellow-H) !important;
 }
 
 @media screen and (max-width: 1300px) {
@@ -372,14 +382,44 @@ span.ant-typography {
   margin-left: 10px;
 }
 
+.coin-detail-container {
+  background-color: var(--Black-L);
+}
+.coin-heading-container p {
+  color: #fff;
+}
+.coin-heading-container h2 {
+  color: var(--Yellow-H) !important;
+}
 .chart-header {
   display: flex;
   justify-content: space-between;
   gap: 50px;
-  color: #0071bd;
 }
-.chart-title {
-  color: #0071bd !important;
+.chart-header h2.ant-typography {
+  color: var(--Yellow-L);
+  padding-left: 1rem;
+  padding-top: 1rem;
+}
+.chart-container h5.ant-typography {
+  color: var(--Yellow-L);
+  margin-right: 1rem;
+}
+.coin-value-statistics-heading {
+  margin-left: 1rem;
+}
+.coin-value-statistics-heading h3 {
+  color: var(--Yellow-L) !important;
+}
+.coin-value-statistics-heading p {
+  color: #fff;
+}
+.coin-details-heading {
+  color: #fff !important;
+  padding-left: 1rem;
+}
+.coin-link a {
+  color: var(--Yellow-L) !important;
 }
 .price-container {
   display: flex !important;
@@ -424,11 +464,22 @@ span.ant-typography {
   margin-top: 20px !important;
 }
 
+.exchange-sec {
+  height: 85vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--Yellow-H);
+  font-size: 2rem;
+}
+
 .footer {
-  /* background-color: #001529; */
   background-color: var(--Yellow-H);
   display: flex;
   flex-direction: column;
   padding: 20px;
   align-items: center;
+}
+.footer a {
+  color: var(--Black-H);
 }
