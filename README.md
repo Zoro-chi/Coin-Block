@@ -1,8 +1,8 @@
 # Coin Block
 
-A Crptocurrency app.
+A Cryptocurrency app.
 
-I made this app to implement what i learnt from chartjs and some redux concepts.
+I made this app to implement what i learnt from chartjs and Ant design. It also helped solidify some redux concepts.
 
 ![coin-block](https://user-images.githubusercontent.com/96382060/189200060-436d0895-00c5-4b31-b685-b2136952ef31.png)
 
