@@ -2,9 +2,9 @@
 
 A Crptocurrency app.
 
-This app was made to learn practise and implement chartjs and also redux.
+I made this app to implement what i learnt from chartjs and some redux concepts.
 
-(![coin-block](https://user-images.githubusercontent.com/96382060/189200060-436d0895-00c5-4b31-b685-b2136952ef31.png)
+![coin-block](https://user-images.githubusercontent.com/96382060/189200060-436d0895-00c5-4b31-b685-b2136952ef31.png)
 
  # [Live Demo](https://coin-block.netlify.app/) :point_left:
 
