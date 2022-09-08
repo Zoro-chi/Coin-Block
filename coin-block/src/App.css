@@ -349,13 +349,19 @@ ul.ant-menu li span a:hover {
 .news-title {
   width: 70%;
 }
+h4.ant-typography.news-title {
+  color: var(--Yellow-L) !important;
+}
+span.ant-typography {
+  color: var(--Yellow-L) !important;
+}
 
 .news-image-container .img {
   width: 100px;
   height: 100px;
 }
 .news-card p {
-  color: black;
+  color: #fff;
   margin: 10px 0px !important;
 }
 .provider-container {
