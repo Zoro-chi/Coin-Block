@@ -6,7 +6,7 @@ I made this app to implement what i learnt from chartjs and Ant design. It also 
 
 ![coin-block](https://user-images.githubusercontent.com/96382060/189200060-436d0895-00c5-4b31-b685-b2136952ef31.png)
 
- # [Live Demo](https://coin-block.netlify.app/) :point_left:
+ # [Live Demo](https://coin-block.netlify.app/) :point_left: .
 
 ## Getting started
 
